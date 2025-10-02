@@ -666,18 +666,18 @@ body,button {
 .page-8 h3 {
 	color:#eef;
 	position:absolute;
-	top:1em;
+	top:5em;
 	left:50%;
 	margin-left:-40%;
-	padding:0;
+	padding:5;
 	margin-top:0;
-	width:10em;
+	width:15em;
 	text-align:left
 }
 .page-8 h3 span {
-	display:none;
-	width:1em;
-	vertical-align:top
+	display:block;
+	width:10em;
+	vertical-align:centre
 }
 .page-9 {
 	background-color:#c9f4fb
