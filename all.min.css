@@ -35,7 +35,7 @@ html,body {
 	-webkit-text-size-adjust:none
 }
 body {
-	white-space:normal
+	white-space: nowrap
 }
 .nojavascript {
 	position:fixed;
@@ -399,7 +399,7 @@ body,button {
 }
 .flowtime .stack-center {
 	text-align:center;
-	white-space:normal;
+	white-space:nowrap;
 	position:absolute;
 	top:2rem;
 	right:2rem;
