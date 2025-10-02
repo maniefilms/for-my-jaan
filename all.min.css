@@ -2,8 +2,8 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 	margin:0;
 	padding:0;
 	border:0;
-	font-size:70%;
-	font:Poppins;
+	font-size:100%;
+	font:inherit;
 	vertical-align:baseline
 }
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
@@ -35,14 +35,14 @@ html,body {
 	-webkit-text-size-adjust:none
 }
 body {
-	white-space: nowrap
+	white-space:nowrap
 }
 .nojavascript {
 	position:fixed;
 	top:0;
 	width:100%;
 	text-align:center;
-	font-size:2em;
+	font-size:3em;
 }
 .flowtime {
 	font-size:0;
@@ -224,8 +224,8 @@ img {
 	transform:translate3d(0,0,0)!important
 }
 @font-face {
-	font-family:'Montserrat';
-	src:url('fonts/Montserrat-Bold') format('truetype');
+	font-family:'RuiHeiXiTi';
+	src:url('fonts/RuiHeiXiTi.otf') format('truetype');
 	font-weight:bold;
 	font-style:normal
 }
@@ -237,7 +237,7 @@ html {
 	text-shadow:1px 1px 0 rgba(255,255,255,0.4)
 }
 body,button {
-	font-family:"Montserrat",sans-serif
+	font-family:"RuiHeiXiTi",sans-serif
 }
 .navigation,.credits,.switches {
 	display:none
