@@ -2,8 +2,8 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 	margin:0;
 	padding:0;
 	border:0;
-	font-size:100%;
-	font:inherit;
+	font-size:70%;
+	font:Poppins;
 	vertical-align:baseline
 }
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
@@ -42,7 +42,7 @@ body {
 	top:0;
 	width:100%;
 	text-align:center;
-	font-size:3em;
+	font-size:2em;
 }
 .flowtime {
 	font-size:0;
@@ -224,8 +224,8 @@ img {
 	transform:translate3d(0,0,0)!important
 }
 @font-face {
-	font-family:'RuiHeiXiTi';
-	src:url('fonts/RuiHeiXiTi.otf') format('truetype');
+	font-family:'Montserrat-Bold';
+	src:url('fonts/Montserrat-Bold') format('truetype');
 	font-weight:bold;
 	font-style:normal
 }
